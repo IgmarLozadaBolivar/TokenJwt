@@ -21,17 +21,10 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<<<<<<< HEAD
 <h3>Realizar los siguientes puntos de JWT:</h3>
-=======
-<h3>Realizar los siguientes EndPoints de las siguientes consultas:</h3>
->>>>>>> 07f46c6d893a36305f899cf52c74a7f6c52a7b94
 
 - Metodo registrar usuario. ❌
 - Metodo autenticar usuario. ✔
 - Metodo de Generar Token. ✔
 - Metodo de GenerarRefreshToken. ✔
-<<<<<<< HEAD
 
-=======
->>>>>>> 07f46c6d893a36305f899cf52c74a7f6c52a7b94
