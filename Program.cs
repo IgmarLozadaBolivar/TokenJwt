@@ -35,8 +35,7 @@ builder.Services.AddAuthentication(config =>
         ValidateLifetime = true,
         ClockSkew = TimeSpan.Zero
     };
-})
-;
+});
 
 var app = builder.Build();
 
