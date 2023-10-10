@@ -49,3 +49,9 @@ C:\Users\losad\TokenJwt\obj\Debug\net7.0\refint\TokenJwt.dll
 C:\Users\losad\TokenJwt\obj\Debug\net7.0\TokenJwt.pdb
 C:\Users\losad\TokenJwt\obj\Debug\net7.0\TokenJwt.genruntimeconfig.cache
 C:\Users\losad\TokenJwt\obj\Debug\net7.0\ref\TokenJwt.dll
+C:\Users\losad\TokenJwt\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\losad\TokenJwt\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\losad\TokenJwt\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\losad\TokenJwt\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\losad\TokenJwt\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\losad\TokenJwt\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
