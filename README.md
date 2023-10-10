@@ -1,5 +1,5 @@
 <img src="./assets/logo-asset.png" alt="Imagen JWT">
-<h1 align="center"><img width="28" height="28" src="https://img.icons8.com/color/48/java-web-token.png" alt="pills"/><b>JWT</b></h1>
+<h1 align="center"><img width="30" height="30" src="https://img.icons8.com/color/48/java-web-token.png" alt="pills"/><b>JWT</b></h1>
 <br>
 <p>JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA</p>
 
