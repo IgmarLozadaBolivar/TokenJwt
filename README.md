@@ -26,7 +26,7 @@
 
 <h3>Realizar los siguientes puntos de JWT:</h3>
 
-- Login and Register HTML & CSS. ✔
+- Login and Register HTML5, CSS3 & JS. ✔
 - Registro de usuario. ✔
 - Autenticacion de usuario. ✔
 - Generacion de Token. ✔
