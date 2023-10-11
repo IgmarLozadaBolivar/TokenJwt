@@ -24,7 +24,12 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3>Realizar los siguientes puntos de JWT:</h3>
+<h3>Dependencias utilizadas:</h3>
+- Microsoft.AspNetCore.Authentication.JwtBearer - v7.0.11
+- System.IdentityModel.Tokens.Jwt - v7.0.2
+- Npgsql.EntityFrameworkCore.PostgreSQL - v7.0.11
+
+<h4>Realizar los siguientes puntos de JWT:</h4>
 
 - Login and Register HTML5, CSS3 & JS. ✔
 - Registro de usuario. ✔
@@ -32,3 +37,7 @@
 - Generacion de Token. ✔
 - Generacion del Token Refresh. ✔
 - Pruebas de la Anotacion [Authorize]. ✔
+
+<h5>Autores:</h5>
+- <a href="https://github.com/IgmarLozadaBolivar">Igmar Lozada Bolivar</a>
+- <a href="https://github.com/DavidVargasDuarte">David Vargas Duarte</a>
