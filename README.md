@@ -25,9 +25,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h3>Dependencias utilizadas:</h3>
-- Microsoft.AspNetCore.Authentication.JwtBearer - v7.0.11
-- System.IdentityModel.Tokens.Jwt - v7.0.2
-- Npgsql.EntityFrameworkCore.PostgreSQL - v7.0.11
+- Microsoft.AspNetCore.Authentication.JwtBearer - v7.0.11<br>
+- System.IdentityModel.Tokens.Jwt - v7.0.2<br>
+- Npgsql.EntityFrameworkCore.PostgreSQL - v7.0.11<br>
 
 <h4>Realizar los siguientes puntos de JWT:</h4>
 
