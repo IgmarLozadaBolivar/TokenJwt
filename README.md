@@ -39,5 +39,5 @@
 - Pruebas de la Anotacion [Authorize]. ✔
 
 <h5>Autores:</h5>
-- <a href="https://github.com/IgmarLozadaBolivar">Igmar Lozada Bolivar</a>
+- <a href="https://github.com/IgmarLozadaBolivar">Igmar Lozada Bolivar</a> <br>
 - <a href="https://github.com/DavidVargasDuarte">David Vargas Duarte</a>
