@@ -47,18 +47,18 @@ public class UserController : Controller
     [HttpPost("validarUser")]
     public async Task<IActionResult> AutenticarUser([FromBody] AutorizacionRequest autorizacion)
     {
-        // Llama al servicio para intentar autenticar al usuario
+        // * Llama al servicio para intentar autenticar al usuario
         var usuarioEncontrado = await _autorizacionService.VerificarUsuario(autorizacion);
 
-        // Verifica si el usuario existe
+        // * Verifica si el usuario existe
         if (usuarioEncontrado)
         {
-            // Si el usuario existe, devuelve un Ok (200)
+            // * Si el usuario existe, devuelve Ok
             return Ok();
         }
         else
         {
-            // Si el usuario no existe, devuelve un Unauthorized (401)
+            // * Si el usuario no existe, devuelve que no esta Autorizado 
             return Unauthorized();
         }
     }

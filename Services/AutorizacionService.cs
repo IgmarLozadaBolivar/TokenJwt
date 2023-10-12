@@ -58,16 +58,14 @@ public class AutorizacionService : IAutorizacionService
 
     public async Task<bool> VerificarUsuario(AutorizacionRequest autorizacion)
     {
-        // Realiza la lógica para verificar si el usuario existe en tu fuente de datos
-        // Puedes utilizar Entity Framework o cualquier otro método que estés utilizando
-
+        // * Verificamos si el usuario existe en la Db
         var usuarioEncontrado = await _context.Users
             .FirstOrDefaultAsync(x =>
                 x.Username == autorizacion.Username &&
                 x.Password == autorizacion.Password
             );
 
-        // Si el usuarioEncontrado no es nulo, significa que el usuario existe
+        // * Si el Usuario Encontrado no es nulo, significa que el usuario existe
         return usuarioEncontrado != null;
     }
 
