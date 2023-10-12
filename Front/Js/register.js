@@ -1,3 +1,11 @@
+// Mostrar ventana emergente de bienvenida 
+Swal.fire({
+    title: '¡Bienvenido!',
+    text: 'Te invito a que te registres!',
+    icon: 'info',
+    confirmButtonText: 'Aceptar'
+});
+
 const urlRegister = "http://localhost:5183/User/registrar";
 const headers = new Headers({ 'Content-Type': 'application/json' });
 const boton = document.getElementById('botonRegistro');

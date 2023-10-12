@@ -6,6 +6,11 @@
     font-family: 'poppins', sans-serif;
 }
 
+body.swal2-shown>[aria-hidden="true"] {
+    transition: 0.1s filter;
+    filter: blur(10px);
+}
+
 section {
     display: flex;
     justify-content: center;
@@ -144,6 +149,7 @@ button {
     color: #fff;
     background: #ce52d6;
 }
+
 .register {
     font-size: .9em;
     color: #fff;
