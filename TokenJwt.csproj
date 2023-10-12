@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
+    <nullabe>disable</nullabe>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
